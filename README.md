@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hi! my name is Ebenezer Andrade, I'm software engineer at Unyleya Educacional  👋
 
-<!--
-**ebenezerandrade/ebenezerandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on PHP 7 using the frameworks Laravel and Zend. 
+- 🌱 I’m currently learning binary tree and graph theory in Java and C++
+- 👯 I’m looking to collaborate on open source healthcare applications.
+- 💬 Ask me about software engineering, requirements engineering, design patterns, software architecture and what I didn't learn learn and help you. 
+- ⚡ Fun fact: I really don't know
 
-Here are some ideas to get you started:
+- 📫 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- favorite tools and technologies
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
+
+<br></br>
+
+<div align="center">
+  <a href="https://github.com/ebenezerandrade">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ebenezerandrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezerandrade&layout=compact&langs_count=7&theme=dracula"/>  
+</div>
+
+ 
