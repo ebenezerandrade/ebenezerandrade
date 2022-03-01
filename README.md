@@ -6,8 +6,6 @@
 - 💬 Ask me about software engineering, requirements engineering, design patterns, software architecture and what I didn't learn learn and help you. 
 - ⚡ Fun fact: I really don't know
 
-- 📫 How to reach me:
-
 - favorite tools and technologies
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
