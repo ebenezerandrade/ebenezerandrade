@@ -1,6 +1,6 @@
 ## Hi! my name is Ebenezer Andrade, I'm software engineer at Unyleya Educacional  👋
 
-- 🔭 I’m currently working on PHP 7 using the frameworks Laravel and Zend. 
+- 🔭 I’m currently working on ASP.NET Core with Angular. 
 - 🌱 I’m currently learning binary tree and graph theory in Java and C++
 - 👯 I’m looking to collaborate on open source healthcare applications.
 - 💬 Ask me about software engineering, requirements engineering, design patterns, software architecture and what I didn't learn learn and help you. 
