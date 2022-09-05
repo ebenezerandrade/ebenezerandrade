@@ -1,4 +1,4 @@
-## Hi! my name is Ebenezer Andrade, I'm software engineer at Intituto de Pesquisas Eldorado  👋
+## Hi! my name is Ebenezer Andrade, I'm software engineer at Instituto de Pesquisas Eldorado  👋
 
 - 🔭 I’m currently working on ASP.NET Core with Angular. 
 - 🌱 I’m currently learning Elixir language and framework Phoenix in https://github.com/Challenge-projects/simple-online-store
