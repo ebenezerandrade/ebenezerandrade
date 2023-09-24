@@ -1,7 +1,7 @@
 ## Hi! my name is Ebenezer Andrade, I'm software engineer at Instituto de Pesquisas Eldorado  👋
 
-- 🔭 I’m currently working on ASP.NET Core with Angular. 
-- 🌱 I’m currently learning Elixir language and framework Phoenix in https://github.com/Challenge-projects/simple-online-store
+- 🔭 I’m currently working on Java Spring with Angular. 
+- 🌱 I’m currently learning machine learning algorithms
 - 👯 I’m looking to collaborate on open source healthcare applications.
 - 💬 Ask me about software engineering, requirements engineering, design patterns, software architecture and what I didn't learn learn and help you. 
 - ⚡ Fun fact: I really don't know
