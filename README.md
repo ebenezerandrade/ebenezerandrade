@@ -1,4 +1,4 @@
-## Hi! my name is Ebenezer Andrade, I'm software engineer at Instituto de Pesquisas Eldorado  👋
+## Hi! my name is Ebenezer Andrade, I'm software engineer  👋
 
 - 🔭 I’m currently working on Java Spring with Angular. 
 - 🌱 I’m currently learning machine learning algorithms
